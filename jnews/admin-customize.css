@@ -1,0 +1,10 @@
+#jnews_primary_category_metabox, 
+#jnews_single_post_metabox, 
+#authordiv, 
+#slugdiv,
+#commentsdiv, 
+#commentstatusdiv, 
+#trackbacksdiv, 
+#wpseo_meta{
+    display: none;
+}

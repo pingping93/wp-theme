@@ -1,1 +1,7 @@
+.wp-admin .flatsome-panel .inner-panel:nth-child(2){
+    display: none;
+}
 
+.wp-admin .flatsome-panel .wupdates_purchase_code{
+    display: none;
+}

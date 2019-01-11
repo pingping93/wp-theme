@@ -5,3 +5,7 @@
 .wp-admin .flatsome-panel .wupdates_purchase_code{
     display: none;
 }
+
+#updraft-dashnotice .updated{
+    display: none;
+}
